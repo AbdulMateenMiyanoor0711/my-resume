@@ -38,8 +38,6 @@ A clean, responsive personal resume website built with HTML and CSS.
 1. **Clone the repository**
    ```bash
    git clone https://github.com/AbdulMateenMiyanoor0711/my-resume.git
-
-   
 <div align="center">
 ⭐ If you found this helpful, please give it a star! ⭐
 
