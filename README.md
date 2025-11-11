@@ -26,6 +26,26 @@ A clean, responsive personal resume website built with HTML and CSS.
 - **CSS3**: Modern styling with Flexbox/Grid
 - **No Frameworks**: Pure HTML & CSS for better performance
 
-⭐ Star this repo if you found it helpful!
+## 📋 Sections Included
+
+- 📌 Personal Information & Contact
+- 💼 Professional Summary
+- 🎓 Education
+- 💻 Skills & Technologies
+- 🏆 Work Experience
+- 📞 Contact Details
+
+## Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/AbdulMateenMiyanoor0711/my-resume.git
+
+<div align="center">
+⭐ If you found this helpful, please give it a star! ⭐
+GitHub stars
+GitHub forks
 
 Made with ❤️ by Abdul Mateen Miyanoor
+
+</div> ```
