@@ -5,11 +5,9 @@ A clean, responsive personal resume website built with HTML and CSS.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
 ## 📸 Preview
 
 <img width="952" height="500" alt="image" src="https://github.com/user-attachments/assets/6909931d-3d28-4167-89d7-3a3aca8f1792" />
-
 
 ## ✨ Features
 
@@ -41,11 +39,13 @@ A clean, responsive personal resume website built with HTML and CSS.
    ```bash
    git clone https://github.com/AbdulMateenMiyanoor0711/my-resume.git
 
-<div align="center">
+   <div align="center">
+
 ⭐ If you found this helpful, please give it a star! ⭐
-GitHub stars
-GitHub forks
+
+![GitHub stars](https://img.shields.io/github/stars/AbdulMateenMiyanoor0711/my-resume?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AbdulMateenMiyanoor0711/my-resume?style=social)
 
 Made with ❤️ by Abdul Mateen Miyanoor
 
-</div> ```
+</div>
