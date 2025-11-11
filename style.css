@@ -1,0 +1,232 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    box-sizing: border-box;
+
+}
+
+body {
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin-bottom: 0px;
+    font-size: 50px;
+}
+
+p {
+    margin-top: 0px;
+    text-transform: capitalize;
+
+}
+
+
+.profile_container {
+    background-color: #2A6EBB;
+    
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.contact_info {
+    color: white;
+    display: flex;
+    gap: 2rem;
+}
+
+.profile_info {
+    margin-top: 14px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    width: 75%;
+}
+
+.work_info {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+
+.profile_img {
+    display: flex;
+    margin-left: 50px;
+    margin-top: 40px;
+    width: 25%;
+}
+
+.main_head {
+    display: table-cell;
+    background-color: #2A6EBB;
+    color: white;
+    font-size: 25px;
+    padding-left: 30px;
+    padding-right: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+body {
+    background-color: #f5f5f5;
+}
+
+.resume-container {
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid #ddd;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+hr {
+    background-color: #2A6EBB;
+    margin-bottom: 15px;
+    margin-top: 0px;
+    height: 4px;
+}
+
+
+h2 {
+    background-color: #2A6EBB;
+    color: white;
+    padding: 5px 10px;
+    padding-left: 0px;
+    text-transform: uppercase;
+    font-size: 20px;
+    width: fit-content;
+    margin-top: 0px;
+
+}
+
+.main_head {
+    display: table-cell;
+    background-color: #2A6EBB;
+    color: white;
+    font-size: 25px;
+    padding-left: 30px;
+    padding-right: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.work_exp {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    padding-left: 30px;
+
+}
+
+#bold_txt {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.exp_head {
+    display: flex;
+    flex-direction: row;
+    padding-left: 30px;
+    padding-right: 50px;
+    padding-top: 20px;
+}
+
+.exp_body {
+    display: flex;
+    flex-direction: row;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+
+.exp_date {
+    flex: none;
+}
+
+.company_name {
+    padding-left: 30px;
+}
+
+.exp_details {
+    padding-left: 60px;
+}
+
+.com_details {
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+
+.edu_head {
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.edu_body {
+    display: flex;
+    flex-direction: row;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+
+.edu_course {
+    padding-left: 30px;
+}
+
+.edu_info {
+    padding-left: 80px;
+}
+
+.edu_date {
+    flex: none;
+}
+
+.section p {
+    text-align: justify;
+}
+
+.fa-phone {
+    margin-right: 4px;
+}
+
+.fa-envelope {
+    margin-right: 5px;
+}
+
+.fa-address-card {
+    margin-right: 5px;
+}
+
+.communications {
+    display: flex;
+    align-items: flex-start;
+    padding-top: 10px;
+}
+
+.copright {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a:-webkit-any-link {
+    color: white;
+    text-decoration: none;
+}
